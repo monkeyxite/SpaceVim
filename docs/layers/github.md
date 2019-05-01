@@ -20,7 +20,7 @@ This layer provides GitHub integration for SpaceVim.
 
 ## Install
 
-To use this configuration layer, add following snippet to your custom configuration file.
+To use this configuration layer, add the following snippet to your custom configuration file.
 
 ```toml
 [[layers]]
